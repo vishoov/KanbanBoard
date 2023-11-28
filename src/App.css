@@ -23,7 +23,7 @@
 .board-details-list{
   width: fit-content;
   display: flex;
-  flex-wrap:wrap;
+ 
 }
 
 @media screen and (max-width: 768px) {
