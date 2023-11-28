@@ -24,3 +24,16 @@
   width: fit-content;
   display: flex;
 }
+
+@media screen and (max-width: 768px) {
+  .board-details-list {
+    flex-direction: column; 
+    align-items: center; 
+  }
+
+  .card-container {
+    width: 100%; 
+    margin: 10px 0; 
+  }
+}
+
