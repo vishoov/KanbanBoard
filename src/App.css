@@ -38,3 +38,9 @@
   }
 }
 
+@media screen and (max-width: 1000px) {
+  .board-details-list{
+    flex-wrap: wrap;
+  }
+}
+
